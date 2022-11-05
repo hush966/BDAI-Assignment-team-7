@@ -1,19 +1,16 @@
 ![image](https://user-images.githubusercontent.com/49952739/193455897-fd9e2b78-031f-4137-b33a-01f6b5f8c5d9.png)
-# Titanic Data Visualization
-The sinking of the ocean liner RMS Titanic on April 15, 1912 was one of the most dramatic events of the twentieth century. In a mere four hours after striking an iceberg, the largest passenger ship yet built sank while on its maiden voyage, claiming the lives of over 1,500 persons.
+# Semantic Image Segmentation
 
-Describe The story of Titanic. 
-- Explain the details by using 6 types of Database visualization. 
-- Bar Chart 
-- Histogram 
-- Line Chart 
-- 2 Swarm plot 
-- Pie plot
+Presentation Content
+- What is image segmentation?
+- Applications
+- Source Code
 
 # Resources
 - OpenCV
 - Matplotlib
 - <a href="https://medium.com/analytics-vidhya/introduction-to-semantic-image-segmentation-856cda5e5de8" target="_blank">Medium</a>
+
 # Team Memebers
 
 - [Mahmuod Alhassan](https://github.com/alhassanm)
@@ -23,5 +20,5 @@ Describe The story of Titanic.
 - [Abdullah Huwaishel](https://github.com/Batool247)
 - [Amjad Almusallam](https://github.com/ASM650)
 
-# SDA - Data Analysts - Data Visualization - CodingDojo - Pandas
+# SDA - Deep Learning - Semantic Image Segmentation - CodingDojo - OpenCV
 ![image](https://user-images.githubusercontent.com/49952739/193455834-b810a22f-1a2f-43cc-8a59-0b36485b615a.png)
