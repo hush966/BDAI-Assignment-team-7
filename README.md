@@ -4,6 +4,8 @@
 Presentation Content
 - What is image segmentation?
 - Applications
+  - Bio-medical image analysis
+  - Facial segmentation
 - Source Code
 
 # Resources
